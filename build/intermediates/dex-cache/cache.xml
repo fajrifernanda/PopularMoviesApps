@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajri\.android\build-cache\27df362905028706d50723eaed7d153f5b3d34e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\Android Studio Project\PopularMoviesApps\app\build\intermediates\pre-dexed\debug\classes_19c77d72d1a626893a7cf597f7efe49775575f1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajri\.android\build-cache\426b4464f01da4385ad8f47aadd8928dd386c9e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\Android Studio Project\PopularMoviesApps\app\build\intermediates\pre-dexed\debug\classes_86f91bc85f19460533d9ef041ffea2b6f9bc349c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajri\.android\build-cache\73c90eb068fa286702c92cf21e255674743edc41\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\Android Studio Project\PopularMoviesApps\app\build\intermediates\pre-dexed\debug\classes_30687aa923b7be4724fbba9f345638ed50c4626a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajri\.android\build-cache\e7818dfce4e4d6ab2fe00564e40d6bdc8eb2755b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Android Studio Project\PopularMoviesApps\app\build\intermediates\pre-dexed\debug\classes_421b0b0d777ccf442942a979f6e84214231dae45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajri\.android\build-cache\c90a9a693c2bde09eb2e1ea2ab22a80aff344b58\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Android Studio Project\PopularMoviesApps\app\build\intermediates\pre-dexed\debug\classes_53c7d29deb04b0ec8ffc4b850bef0fbffc036553.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajri\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="E:\Android Studio Project\PopularMoviesApps\app\build\intermediates\pre-dexed\debug\okio-1.8.0_0eb7d2929c335d343e743248a6a45262be680764.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajri\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="E:\Android Studio Project\PopularMoviesApps\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_87edd5d185690301de049b255218de28579f8334.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajri\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="E:\Android Studio Project\PopularMoviesApps\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_4b6f87ba44fd08ed008c78788430b5911e627ed6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajri\.android\build-cache\894702ac95ea8adbad42a833cb663be86870fee3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Android Studio Project\PopularMoviesApps\app\build\intermediates\pre-dexed\debug\classes_363863a86be8d0050ced4682bca07076071ec8ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajri\.android\build-cache\dafdd070ff4a78384070dc3b1045b85c7f755ef5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android Studio Project\PopularMoviesApps\app\build\intermediates\pre-dexed\debug\classes_a65c18d8eca1625d8f2bbf14766d9d3950cf1a20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajri\.android\build-cache\f089084cdf0d1a00598d9e50bd01b642eb5e4bbe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Android Studio Project\PopularMoviesApps\app\build\intermediates\pre-dexed\debug\classes_de70a2b26df1b9cadbe3a3d45b15fd95c423f867.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajri\.android\build-cache\1aea2639dfee3d5371f10bff65fcc462e0cab089\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Android Studio Project\PopularMoviesApps\app\build\intermediates\pre-dexed\debug\classes_c93627817a20063d89633a21bde1fba1e524db79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajri\.android\build-cache\6a90981d1662c324bb34afd1d9e9aca74aaf18d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Android Studio Project\PopularMoviesApps\app\build\intermediates\pre-dexed\debug\classes_cf0bd86bbb2d76f815da6e9d1226b961893b9353.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajri\.android\build-cache\7a6c113e4a002896ecbcf1cdd553c28f5c53f8ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Android Studio Project\PopularMoviesApps\app\build\intermediates\pre-dexed\debug\classes_e5bab6ce3264b0be4ce2e693905bb9ae23c1ef5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajri\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\Android Studio Project\PopularMoviesApps\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_b5c6722636b5e20a0b66fd1d29f1d1c28d7dd829.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajri\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="E:\Android Studio Project\PopularMoviesApps\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_7a6dd0aacf74345f05d1936df72f4b70720c7302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajri\.android\build-cache\af9953176adf4aa748f0eee1c7d08ffff4e187ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Android Studio Project\PopularMoviesApps\app\build\intermediates\pre-dexed\debug\classes_998d8158eb6e36526c90ffd53de68b181b6d6e76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajri\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\Android Studio Project\PopularMoviesApps\app\build\intermediates\pre-dexed\debug\gson-2.7_4993f7d22d2c895fc631d67cf3ccd86f0be666ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajri\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Android Studio Project\PopularMoviesApps\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_a984ab6696a54c22276cd847a9763cdfbfcf4e27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajri\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Android Studio Project\PopularMoviesApps\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_48f2795ff761f0f9278fa3e9499bef8f8aa00141.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajri\.android\build-cache\eb489b244da93c5286dc5a72451c9ac58a1e3efa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Android Studio Project\PopularMoviesApps\app\build\intermediates\pre-dexed\debug\classes_075e66a613a747f7ba2058acfc13a240e94194dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajri\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="E:\Android Studio Project\PopularMoviesApps\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_4bf02e0f4df0d9fb1727890a619bbbd65a1c2e24.jar" />
+    </item>
+
+</items>
